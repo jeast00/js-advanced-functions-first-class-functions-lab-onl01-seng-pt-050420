@@ -2,5 +2,5 @@
 
 
 const returnFirstTwoDrivers = function(drivers) {
-  return 
+  return drivers.slice(0, 2);
 }
